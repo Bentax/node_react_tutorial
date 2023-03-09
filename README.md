@@ -1,14 +1,6 @@
 # Node and React JS Tutorial
 # Frontend and Backend setup with page routing
 
-I used Homebrew to install Node. Before starting, I like to run the following commands...
-
-Homebrew Commands:
-```javascript
-brew update
-brew upgrade
-```
-
 Check which version of Node and NPM you are running:
 ```javascript
 node -v
